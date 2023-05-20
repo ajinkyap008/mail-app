@@ -1,0 +1,2 @@
+Flask==2.2.3
+sib-api-v3-sdk
